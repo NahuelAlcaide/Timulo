@@ -1,0 +1,14 @@
+-cambio de respuestás por contacto
+-cago
+    -/cago show (mes actual y sumatoria del año) (texto)
+        -/cago show all (ordenado mayor a menor)
+    -/cago graphic (toggle)
+        automaticamente todos los meses arma: gráfico de cagos del mes. Franjas horarias de los cagos -> mas comunes del grupo, mas comunes de cada usuario y distribución de cada usuario (este último con comando adicional)
+-Reminder
+-Todo
+-menus con botones y listas
+-groupOnly chatOnly
+-reacción valor dolar
+-Whitelist: carpeta con .cfg con la id dela contacto/grupo como nombre que adentro guardan los comandos que tienen habilitados
+    -Agregar a cada comando si es un comando default o no
+    -Comando admin para cambiar los comandos habilitados
